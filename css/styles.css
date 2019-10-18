@@ -16,7 +16,7 @@ footer {
 }
 
 .headfoot {
-  background-color: #d9d9d9;
+  background-color: #b3b3b3;
   height: 32px;
   padding-top: 4px;
   text-align: center;
@@ -28,12 +28,12 @@ footer {
 
 p.lefty {
   float: left;
-  padding-left: 14px;
+  padding-left: 32px;
 }
 
 p.righty {
   float: right;
-  padding-right: 14px;
+  padding-right: 32px;
 }
 
 .flex-container {
@@ -43,9 +43,8 @@ p.righty {
 }
 
 .infomatic {
-  /* padding: 100px 0 0 8px; */
-  padding: 120px 0 120px 14px;
-  color: white;
+  padding: 120px 0 120px 32px;
+  color: #b3b3b3;
   font-family: 'Source Code Pro', monospace;
 }
 
@@ -58,12 +57,12 @@ ul.bullets {
 }
 
 a {
-  color: white;
+  color: #b3b3b3;
 }
 
 a:hover {
-  color: hotpink;
   text-decoration: none;
+  color: #b3b3b3;
 }
 
 /* -----------------------------------------------------------------------------
@@ -77,11 +76,22 @@ https://stackoverflow.com/questions/22057281/hover-over-text-to-show-more-text *
 
 a:hover .popout {
   display: inline-block;
+  color: #ffffff;
+  font-size: 16px;
 }
 
 /* End */
 /* ----------------------------------------------------------------------------- */
+h1 {
+  font-size: 36px;
+}
 
-.sidebar {
+h1:hover {
+  opacity: 0.5;
+}
 
+li {
+  font-size: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
