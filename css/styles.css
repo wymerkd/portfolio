@@ -5,18 +5,31 @@ body {
   background-attachment: fixed;
 }
 
-header{
-
+header {
+  margin: 12px 0 0 0;
 }
 
 footer {
-  position: fixed;
   width: 100%;
+  position: fixed;
   bottom: 0;
-
 }
 
 .headfoot {
   background-color: white;
+  height: 32px;
+  padding-top: 4px;
   text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+p.lefty {
+  float: left;
+  padding-left: 8px;
+}
+
+p.righty {
+  float: right;
+  padding-right: 8px;
 }
