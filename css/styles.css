@@ -28,23 +28,23 @@ footer {
 
 p.lefty {
   float: left;
-  padding-left: 8px;
+  padding-left: 14px;
 }
 
 p.righty {
   float: right;
-  padding-right: 8px;
+  padding-right: 14px;
 }
 
 .flex-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  width: 300px;
 }
 
 .infomatic {
   /* padding: 100px 0 0 8px; */
-  padding: 8px 0 0 8px;
+  padding: 120px 0 120px 14px;
   color: white;
   font-family: 'Source Code Pro', monospace;
 }
@@ -81,3 +81,7 @@ a:hover .popout {
 
 /* End */
 /* ----------------------------------------------------------------------------- */
+
+.sidebar {
+
+}
