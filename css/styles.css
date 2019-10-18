@@ -36,8 +36,15 @@ p.righty {
   padding-right: 8px;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .infomatic {
-  padding: 100px 0 0 8px;
+  /* padding: 100px 0 0 8px; */
+  padding: 8px 0 0 8px;
   color: white;
   font-family: 'Source Code Pro', monospace;
 }
