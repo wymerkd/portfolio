@@ -37,7 +37,11 @@ p.righty {
 }
 
 .infomatic {
-  padding: 8px 0 0 8px;
+  padding: 100px 0 0 8px;
   color: white;
   font-family: 'Source Code Pro', monospace;
+}
+
+.infomatic h1 {
+  text-transform: uppercase;
 }
