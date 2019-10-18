@@ -1,8 +1,8 @@
 body {
   background: url('../img/bluewood.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 
 footer {
   width: 100%;
-  position: fixed;
+  position: absolute;
   bottom: 0;
 }
 
@@ -21,6 +21,7 @@ footer {
   padding-top: 4px;
   text-align: center;
   font-size: 20px;
+  letter-spacing: 2px;
   text-transform: uppercase;
 }
 
