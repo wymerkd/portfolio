@@ -45,3 +45,16 @@ p.righty {
 .infomatic h1 {
   text-transform: uppercase;
 }
+
+ul.bullets {
+  list-style-type: none;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
