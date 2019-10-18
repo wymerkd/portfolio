@@ -1,3 +1,22 @@
 body {
   background: url('../img/bluewood.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header{
+
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+
+}
+
+.headfoot {
+  background-color: white;
+  text-align: center;
 }
