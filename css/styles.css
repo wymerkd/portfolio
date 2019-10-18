@@ -34,3 +34,8 @@ p.righty {
   float: right;
   padding-right: 8px;
 }
+
+.infomatic {
+  padding: 8px 0 0 8px;
+  color: white;
+}
