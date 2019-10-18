@@ -65,3 +65,19 @@ a:hover {
   color: hotpink;
   text-decoration: none;
 }
+
+/* -----------------------------------------------------------------------------
+Start
+Found how to display hidden text upon hovering over at the following source:
+https://stackoverflow.com/questions/22057281/hover-over-text-to-show-more-text */
+
+.popout {
+  display: none;
+}
+
+a:hover .popout {
+  display: inline-block;
+}
+
+/* End */
+/* ----------------------------------------------------------------------------- */
