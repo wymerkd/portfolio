@@ -1,5 +1,16 @@
+/* Linked Google Fonts
+font-family: 'Exo', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Audiowide', cursive;
+font-family: 'Farro', sans-serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Anonymous Pro', monospace;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Special Elite', cursive; */
+
+
 body {
-  background: url('../img/bluewood1.jpg');
+  background: url('../img/bluewood6.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -16,7 +27,7 @@ footer {
 }
 
 .headfoot {
-  background-color: #b3b3b3;
+  background-color: rgb(179, 179, 179, 0.7);
   height: 32px;
   padding-top: 4px;
   text-align: center;
@@ -45,11 +56,18 @@ p.righty {
 .infomatic {
   padding: 120px 0 120px 32px;
   color: #b3b3b3;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Audiowide', cursive;
 }
 
 .infomatic h1 {
   text-transform: uppercase;
+}
+
+
+
+ul {
+  padding-left: 2px;
+  font-family: 'Share Tech Mono', monospace;
 }
 
 ul.bullets {
@@ -101,7 +119,7 @@ h1 {
 }
 
 h1:hover {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 li {
