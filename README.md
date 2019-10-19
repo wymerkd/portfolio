@@ -6,7 +6,8 @@
 
 ## Description
 
-_This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. This project demonstrates._
+_https://www.iconfinder.com/iconsets/liu-square-blac_
+_https://www.iconfinder.com/iconsets/vector-brand-logos_
 
 ## Setup/Installation Requirements
 

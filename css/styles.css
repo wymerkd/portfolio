@@ -42,9 +42,14 @@ p.lefty {
   padding-left: 32px;
 }
 
-p.righty {
+.righty nav {
   float: right;
   padding-right: 32px;
+  display: center;
+}
+
+nav li {
+  display: inline;
 }
 
 .flex-container {
@@ -64,8 +69,7 @@ p.righty {
 }
 
 
-
-ul {
+.sidebar ul {
   padding-left: 2px;
   font-family: 'Share Tech Mono', monospace;
 }
@@ -114,7 +118,7 @@ img#kyle {
   border-radius: 50%;
 }
 
-h1 {
+.sidebar h1 {
   font-size: 36px;
 }
 
@@ -122,8 +126,10 @@ h1:hover {
   opacity: 0.7;
 }
 
-li {
+.sidebar li {
   font-size: 20px;
   padding-top: 6px;
   padding-bottom: 6px;
+  padding-left: 2px;
+  font-family: 'Share Tech Mono', monospace;
 }
