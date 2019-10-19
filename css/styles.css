@@ -1,5 +1,5 @@
 body {
-  background: url('../img/bluewood.jpg');
+  background: url('../img/bluewood1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -80,8 +80,22 @@ a:hover .popout {
   font-size: 16px;
 }
 
+.imagePop {
+  display: none;
+}
+
+p:hover .imagePop {
+  display:block;
+  padding-top: 30px;
+}
+
 /* End */
 /* ----------------------------------------------------------------------------- */
+
+img#kyle {
+  border-radius: 50%;
+}
+
 h1 {
   font-size: 36px;
 }
