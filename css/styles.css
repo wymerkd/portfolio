@@ -20,19 +20,13 @@ header {
   margin: 12px 0 0 0;
 }
 
-footer {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-}
-
 .headfoot {
   background-color: rgb(179, 179, 179, 0.7);
-  height: 32px;
-  padding-top: 4px;
+  height: 40px;
+  padding-top: 6px;
   text-align: center;
   font-family: 'Special Elite', cursive;
-  font-size: 20px;
+  font-size: 24px;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -45,7 +39,7 @@ p.lefty {
 .righty nav {
   float: right;
   padding-right: 32px;
-  display: center;
+  padding-bottom: 1px;
 }
 
 nav li {
