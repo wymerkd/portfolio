@@ -39,7 +39,6 @@ p.lefty {
 .righty nav {
   float: right;
   padding-right: 32px;
-  padding-bottom: 1px;
 }
 
 nav li {
@@ -132,5 +131,8 @@ h1:hover {
 @media screen and (max-width: 936px){
   .headfoot {
     height: 80px;
+  }
+  #kyle {
+    padding: 32px;
   }
 }
