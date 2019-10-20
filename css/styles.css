@@ -29,6 +29,7 @@ header {
   font-size: 24px;
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: black;
 }
 
 p.lefty {
@@ -94,6 +95,7 @@ a:hover .popout {
   display: inline-block;
   color: #ffffff;
   font-size: 16px;
+  width: 400px;
 }
 
 .imagePop {
@@ -101,7 +103,7 @@ a:hover .popout {
 }
 
 p:hover .imagePop {
-  display:block;
+  display: flex;
   padding: 30px;
   position: fixed;
 }
@@ -138,7 +140,17 @@ h1:hover {
   }
 }
 
-.flex-container {
-  display: flex;
-  justify-content: space-around;
+#nametag {
+  text-decoration: none;
+  color: black;
+}
+
+.photos {
+  padding: 30px 0 0 40px;
+}
+
+.photos img {
+  border: solid;
+  border-width: medium;
+  border-radius: 25%;
 }
