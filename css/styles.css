@@ -55,6 +55,7 @@ nav li {
   padding: 120px 0 120px 32px;
   color: #b3b3b3;
   font-family: 'Audiowide', cursive;
+  width: 300px;
 }
 
 .infomatic h1 {
@@ -135,4 +136,9 @@ h1:hover {
   #kyle {
     padding: 32px;
   }
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
 }
