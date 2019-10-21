@@ -12,7 +12,7 @@ _This project demonstrates my current skills and understanding of HTML, CSS, and
 ## Setup/Installation Requirements
 
 * _Clone or download the respository from GitHub_
-* _Open in browser_
+* _Open index.html in browser_
 
 ## Known Bugs
 
