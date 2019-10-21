@@ -46,6 +46,12 @@ nav li {
   display: inline;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
 .infomatic {
   padding: 120px 0 120px 32px;
   color: #b3b3b3;
@@ -56,6 +62,7 @@ nav li {
 .infomatic h1 {
   text-transform: uppercase;
 }
+
 
 .sidebar ul {
   padding-left: 2px;
@@ -125,7 +132,7 @@ img#kyle {
   font-size: 36px;
 }
 
-.sidebar h1:hover {
+h1:hover {
   opacity: 0.7;
 }
 
@@ -137,8 +144,11 @@ img#kyle {
   font-family: 'Share Tech Mono', monospace;
 }
 
-/* For woodworking.html
-Start: */
+#nametag {
+  text-decoration: none;
+  color: black;
+}
+
 .photos {
   padding: 30px 0 0 40px;
 }
@@ -149,11 +159,6 @@ Start: */
   border-radius: 25%;
 }
 
-#nametag {
-  color: black;
-  text-decoration: none;
-}
-/* End */
 
 @media screen and (max-width: 936px){
   .headfoot {
