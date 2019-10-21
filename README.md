@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project demonstrates my current skills and understanding of HTML, CSS, and Bootstrap 4. I had to problem solve using a lot of trial and error as I wasn't sure how to position a lot of the elements correctly. While working on the project I learned a lot of new styling techniques through www.w3schools.com for both css and bootsrtap 4. I tried to apply a few techniques learned from bootstrap 3, but quickly found that they do not work with bootstrap 4. I am planning on building on this project during my time at Epicodus, applying new concepts learned each week._
+_This project demonstrates my current skills and understanding of HTML, CSS, and Bootstrap 4. I had to problem solve using a lot of trial and error as I wasn't sure how to position a lot of the elements correctly. While working on the project I learned a lot of new styling techniques through www.w3schools.com for both CSS and Bootstrap 4. I tried to apply a few techniques learned from Bootstrap 3, but quickly found that they do not work with Bootstrap 4. I am planning on building on this project during my time at Epicodus, applying new concepts learned each week._
 
 
 ## Setup/Installation Requirements
