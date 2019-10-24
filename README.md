@@ -10,7 +10,8 @@ _This project demonstrates my current skills and understanding of HTML, CSS, and
 
 
 ## Setup/Installation Requirements
-
+* _Use the following link to view the page: https://wymerkd.github.io/portfolio/ _ 
+* _Or_
 * _Clone or download the respository from GitHub_
 * _Open index.html in browser_
 
